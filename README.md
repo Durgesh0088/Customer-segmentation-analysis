@@ -6,6 +6,8 @@ into consideration makes these methods an efficient one as compares to others. F
 named as k- means clustering algorithm is used and based on the behavioural characteristic’s customers are classified.
 Formed clusters help the company to target individual customer and advertise the content to them through marketing
 campaign and social media sites which they are really interested in. 
+
+
 Language- Python
 Operating System- Windows 10
 Python Libraries- Pandas, Matplotlib, Seaborn
